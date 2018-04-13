@@ -1,0 +1,6 @@
+ 1 : The preorder traversal of the entered number is 
+ 	  15 		  2 		  23 		  25 		  34 		  45 		  48 	
+ 2 :The inorder traversal of the entered number is 
+ 	  2 		  15 		  23 		  25 		  34 		  45 		  48 	
+ 3 : The postorder traversal of the entered number is 
+ 	  2 		  23 		  25 		  34 		  45 		  48 		  15 	

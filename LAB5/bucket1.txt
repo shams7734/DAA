@@ -1,0 +1,10 @@
+The bucket 0 is:	NULL	
+The bucket 1 is:	0.12	0.17	0.18	NULL
+The bucket 2 is:	0.21	0.23	0.26	NULL
+The bucket 3 is:	0.39	NULL
+The bucket 4 is:	NULL	
+The bucket 5 is:	NULL	
+The bucket 6 is:	NULL	
+The bucket 7 is:	0.72	0.78	NULL
+The bucket 8 is:	NULL	
+The bucket 9 is:	0.94	NULL

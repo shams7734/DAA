@@ -1,0 +1,3 @@
+echo "Program to print the code itself"
+gcc l2p3.c
+./a.out

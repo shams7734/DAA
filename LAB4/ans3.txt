@@ -1,0 +1,3 @@
+The Sorted array is :  	9	15	23	26	55	65	75	87	
+ 
+The no. of swaps are : 	20	 

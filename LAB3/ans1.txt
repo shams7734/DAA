@@ -1,0 +1,6 @@
+
+The height of tree is 2.81
+
+The no.of levels of tree is 2
+
+The number of elements in leaf node is 4

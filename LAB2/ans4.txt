@@ -1,0 +1,8 @@
+ 1 inversion is (2,1)
+ 2 inversion is (5,1)
+ 3 inversion is (5,4)
+ 4 inversion is (6,4)
+ 5 inversion is (7,4)
+ 6 inversion is (9,4)
+ 7 inversion is (9,8)
+ The total number of inversions are 7
